@@ -49,3 +49,11 @@ console.log('jessTown ===', jessTown);
 users[0].name = 'Boby';
 users[0].lastName = 'Marley';
 console.log('users ===', users);
+
+// kiekvienam objektui prideti reiksme
+for (let i = 0; i < users.length; i++) {
+  let singleUser = users[i];
+  console.log(singleUser);
+  users[i].planet = 'zeme';
+}
+console.log('users ===', users);
