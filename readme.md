@@ -75,3 +75,4 @@ Javascript -> very easy => Objects
 2. https://edabit.com/challenge/ms3q5GYSpFpwxeFWX apskaiciuoti turi
 3. https://edabit.com/challenge/MQL7KSftPQzrxdJw6
 4. https://edabit.com/challenge/Wp8uSyh2tfpdzR4CP
+5. savarankiskai pasirinkti edabit
