@@ -30,9 +30,7 @@
 
 4. Ištrinkite savybę "metai" iš objekto "knyga".
 
-5. Gauti visų objekto "knyga" savybių pavadinimus ir atspausdinti juos.
-
-6. Pridekite, savybe "ParduotuVntSk" su skaitine reiksme.
+5. Pridekite, savybe "ParduotuVntSk" su skaitine reiksme.
 
 ## Studentas
 
