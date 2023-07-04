@@ -36,3 +36,16 @@ users = [
   },
 ];
 console.log('users ===', users);
+
+// gauti james age
+let jamesAge = users[1].age;
+console.log('jamesAge ===', jamesAge);
+
+// gauti jess miesta isaugoti kintamajame
+let jessTown = users[2].town;
+console.log('jessTown ===', jessTown);
+
+// irasom pakeiciam reiksmes.
+users[0].name = 'Boby';
+users[0].lastName = 'Marley';
+console.log('users ===', users);
