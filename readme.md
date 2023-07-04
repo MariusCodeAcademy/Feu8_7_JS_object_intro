@@ -30,7 +30,7 @@
 
 4. Ištrinkite savybę "metai" iš objekto "knyga".
 
-5. Pridekite, savybe "ParduotuVntSk" su skaitine reiksme.
+5. Pridekite, savybe "parduotuVntSk" su skaitine reiksme.
 
 ## Studentas
 
